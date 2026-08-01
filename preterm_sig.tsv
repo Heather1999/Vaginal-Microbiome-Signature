@@ -1,0 +1,14 @@
+feature,metadata,direction,N,N_not_zero,pval,qval
+Bacteria.Bacillota_A.Clostridia.Christensenellales.Aristaeellaceae,Preterm,term,2250,235,3.54e-04,1.53e-03
+Bacteria.Bacillota_A.Clostridia.Oscillospirales.Oscillospiraceae,Preterm,term,2250,738,4.11e-04,1.69e-03
+Bacteria.Bacillota_A.Clostridia.Oscillospirales.Ruminococcaceae,Preterm,term,2250,1048,9.12e-04,3.31e-03
+Bacteria.Bacillota_A.Clostridia.Oscillospirales.Acutalibacteraceae,Preterm,term,2250,731,4.85e-03,1.45e-02
+Bacteria.Bacillota_I.Bacilli_A.Mycoplasmatales.Metamycoplasmataceae,Preterm,preterm,2250,831,4.92e-03,1.46e-02
+Bacteria.Actinomycetota.Actinomycetes.Actinomycetales.Bifidobacteriaceae,Preterm,preterm,2250,2190,5.31e-03,1.55e-02
+Bacteria.Bacillota_C.Negativicutes.Veillonellales.Dialisteraceae,Preterm,preterm,2250,2143,7.34e-03,2.08e-02
+Bacteria.Bacillota.Bacilli.Staphylococcales.Gemellaceae,Preterm,preterm,2250,1466,8.86e-03,2.39e-02
+Bacteria.Bacteroidota.Bacteroidia.Bacteroidales.Bacteroidaceae,Preterm,preterm,2250,2242,9.15e-03,2.43e-02
+Bacteria.Pseudomonadota.Alphaproteobacteria.Rhizobiales.Beijerinckiaceae,Preterm,term,2250,333,1.15e-02,2.95e-02
+Bacteria.Fusobacteriota.Fusobacteriia.Fusobacteriales.Leptotrichiaceae,Preterm,preterm,2250,1722,1.84e-02,4.49e-02
+Bacteria.Verrucomicrobiota.Verrucomicrobiae.Verrucomicrobiales.Akkermansiaceae,Preterm,term,2250,271,1.92e-02,4.60e-02
+Bacteria.Bacillota_C.Negativicutes.Veillonellales.Megasphaeraceae,Preterm,preterm,2250,1885,2.06e-02,4.80e-02

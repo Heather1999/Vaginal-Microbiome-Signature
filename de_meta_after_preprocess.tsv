@@ -1,0 +1,72 @@
+sample	PatID	Sampl_ID	meta_Time	Swabsite	Treatment	Treatment_corr	compliance	Age_at_inclusion	Gravida	Parity	BMI	Smoking_Yes1_No0	Previous_preterm_birth_Yes1_No0_and_GA	GA_at_first_previous_preterm_birth_days	GA_at_second_previous_preterm_birth_days	Previous_spontanous_abortion_after_GA_16.0_Yes1_No0_	GA_at_previous_spontanous_abortion_after_GA_16.0	Conisatio_Yes1_No0	Antibiotics_during_pregnancy_Yes1_No0	Admission_during_pregnancy_Yes1_No0	GA_at_birth_days	Spontaneous_1_Induced_birth_0	Delivery_Vaginal1__C.section0	Alive1_Stillborn0	Birth_weight_g	Apgar_1min	Asphysia_Yes1_No0	Admission_to_neonatal_care_Yes1_No0	Bleeding_ml	Archaea	Preterm
+P01_A01_1a	1	P01.A01.1a	TP1	Vag_Swabs	Treatment	Control	good	31	2	1	19.0	0	1	253	0	0	0.0	0	0.0	0.0	276.0	1.0	1	1	3390	10.0	0.0	0.0	300.0	0	0.0
+P01_A02_23e	23	P01.A02.23e	TP3	Vag_Swabs	Control	Control	control	32	1	0	27.0	0	0	0	0	0	0.0	1	0.0	0.0	286.0	1.0	1	1	4295	9.0	0.0	0.0	300.0	0	0.0
+P01_A02_2c	2	P01.A02.2c	TP2	Vag_Swabs	Control	Control	control	29	5	4	19.4	0	1	238	210	0	0.0	0		0.0	242.0	1.0	1	1	2350	9.0	0.0	1.0	200.0	1	1.0
+P01_A03_4e	4	P01.A03.4e	TP3	Vag_Swabs	Control	Control	control	26	1	0	26.9	0	0	0	0	0	0.0	1	0.0	0.0	289.0	1.0	1	1	3555	9.0	0.0	0.0	150.0	1	0.0
+P01_A03_6c	6	P01.A03.6c	TP2	Vag_Swabs	Treatment	Treatment	good	28	3	0	23.1	1	0	0	0	0	0.0	1	0.0	0.0	295.0	0.0	0	1	3240	9.0	1.0	0.0	1000.0	0	0.0
+P01_A04_6a	6	P01.A04.6a	TP1	Vag_Swabs	Treatment	Control	good	28	3	0	23.1	1	0	0	0	0	0.0	1	0.0	0.0	295.0	0.0	0	1	3240	9.0	1.0	0.0	1000.0	0	0.0
+P01_A06_9c	9	P01.A06.9c	TP2	Vag_Swabs	Control	Control	control	32	2	1	33.6	0	1	189	0	0	0.0	0	1.0	1.0	270.0	1.0	0	1	3775	9.0	1.0	0.0	350.0	0	0.0
+P01_B02_14c	14	P01.B02.14c	TP2	Vag_Swabs	Control	Control	control	34	3	1	26.7	0	0	0	0	0	0.0	1	0.0	0.0	285.0	1.0	1	1	3990	10.0	0.0	0.0	250.0	0	0.0
+P01_B08_17a	17	P01.B08.17a	TP1	Vag_Swabs	Control	Control	control	30	3	2	17.2	0	0	0	0	0	0.0	1	0.0	0.0	291.0	1.0	1	1	3000	10.0	0.0	0.0	450.0	0	0.0
+P01_B09_18e	18	P01.B09.18e	TP3	Vag_Swabs	Treatment	Treatment	good	33	6	2	20.6	0	0	0	0	0	0.0	1	0.0	0.0	267.0	0.0	1	1	3510	9.0	0.0	0.0	250.0	0	0.0
+P01_B12_23a	23	P01.B12.23a	TP1	Vag_Swabs	Control	Control	control	32	1	0	27.0	0	0	0	0	0	0.0	1	0.0	0.0	286.0	1.0	1	1	4295	9.0	0.0	0.0	300.0	0	0.0
+P01_C01_34a	34	P01.C01.34a	TP1	Vag_Swabs	Treatment	Control	good	27	4	1	23.3	0	0	0	0	1		1	0.0	0.0	281.0	0.0	1	1	3136	10.0	0.0	0.0	1400.0	0	0.0
+P01_C02_2e	2	P01.C02.2e	TP3	Vag_Swabs	Control	Control	control	29	5	4	19.4	0	1	238	210	0	0.0	0		0.0	242.0	1.0	1	1	2350	9.0	0.0	1.0	200.0	0	1.0
+P01_C02_37e	37	P01.C02.37e	TP3	Vag_Swabs	Control	Control	control	38	3	2	25.6	0	0	0	0	0	0.0	1	1.0	0.0	276.0	1.0	1	1	4105	9.0	0.0	0.0	350.0	0	0.0
+P01_C03_5a	5	P01.C03.5a	TP1	Vag_Swabs	Treatment	Control	good	40	3	2	22.3	0	1	245	0	0	0.0	0	0.0	0.0	280.0	1.0	1	1	3460	10.0	0.0	0.0	175.0	0	0.0
+P01_C04_6c	6	P01.C04.6c	TP2	Vag_Swabs	Treatment	Treatment	good	28	3	0	23.1	1	0	0	0	0	0.0	1	0.0	0.0	295.0	0.0	0	1	3240	9.0	1.0	0.0	1000.0	0	0.0
+P01_C05_8a	8	P01.C05.8a	TP1	Vag_Swabs	Treatment	Control	good	36	4	2	21.8	0	0	0	0	0	0.0	1	0.0	0.0	288.0	1.0	1	1	3760	10.0	0.0	0.0	350.0	1	0.0
+P01_C06_9e	9	P01.C06.9e	TP3	Vag_Swabs	Control	Control	control	32	2	1	33.6	0	1	189	0	0	0.0	0	1.0	1.0	270.0	1.0	0	1	3775	9.0	1.0	0.0	350.0	0	0.0
+P01_D08_17c	17	P01.D08.17c	TP2	Vag_Swabs	Control	Control	control	30	3	2	17.2	0	0	0	0	0	0.0	1	0.0	0.0	291.0	1.0	1	1	3000	10.0	0.0	0.0	450.0	0	0.0
+P01_D09_16a	16	P01.D09.16a	TP1	Vag_Swabs	Treatment	Control	good	30	2	1	21.3	0	1	252	0	0	0.0	0	0.0	0.0	268.0	1.0	0	1	3830	10.0	0.0		340.0	0	0.0
+P01_D11_21a	21	P01.D11.21a	TP1	Vag_Swabs	Control	Control	control	29	3	1	32.5	0	0	0	0	0	0.0	1		0.0	288.0	0.0	1	1	4290	9.0	0.0	0.0	2000.0	0	0.0
+P01_E01_37c	37	P01.E01.37c	TP2	Vag_Swabs	Control	Control	control	38	3	2	25.6	0	0	0	0	0	0.0	1	1.0	0.0	276.0	1.0	1	1	4105	9.0	0.0	0.0	350.0	0	0.0
+P01_E02_4a	4	P01.E02.4a	TP1	Vag_Swabs	Control	Control	control	26	1	0	26.9	0	0	0	0	0	0.0	1	0.0	0.0	289.0	1.0	1	1	3555	9.0	0.0	0.0	150.0	0	0.0
+P01_E04_7a	7	P01.E04.7a	TP1	Vag_Swabs	Treatment	Control	good	30	5	2	22.0	1	0	0	0	1	147.0	0		0.0	286.0	1.0	1	1	3740	10.0	0.0		400.0	0	0.0
+P01_E06_10a	10	P01.E06.10a	TP1	Vag_Swabs	Control	Control	control	32	3	2	20.0	0	1	252	0	0	0.0	0		0.0	260.0	1.0	1	1	3230	10.0	0.0	0.0	100.0	0	0.0
+P01_E07_14e	14	P01.E07.14e	TP3	Vag_Swabs	Control	Control	control	34	3	1	26.7	0	0	0	0	0	0.0	1	0.0	0.0	285.0	1.0	1	1	3990	10.0	0.0	0.0	250.0	1	0.0
+P01_E10_14a	14	P01.E10.14a	TP1	Vag_Swabs	Control	Control	control	34	3	1	26.7	0	0	0	0	0	0.0	1	0.0	0.0	285.0	1.0	1	1	3990	10.0	0.0	0.0	250.0	0	0.0
+P01_F01_42a	42	P01.F01.42a	TP1	Vag_Swabs	Treatment	Control	good	33	10	2	27.3	0	0	0	0	0	0.0	1		1.0	111.0	0.0	1	0			0.0	0.0	470.0	0	1.0
+P01_F07_15a	15	P01.F07.15a	TP1	Vag_Swabs	Treatment	Control	good	33	2	1	22.3	0	0	0	0	0	0.0	1	0.0	0.0	284.0	1.0	1 (OBS retcheck this)	1	4780	10.0	0.0	0.0	650.0	0	0.0
+P01_F08_17e	17	P01.F08.17e	TP3	Vag_Swabs	Control	Control	control	30	3	2	17.2	0	0	0	0	0	0.0	1	0.0	0.0	291.0	1.0	1	1	3000	10.0	0.0	0.0	450.0	1	0.0
+P01_F11_21c	21	P01.F11.21c	TP2	Vag_Swabs	Control	Control	control	29	3	1	32.5	0	0	0	0	0	0.0	1		0.0	288.0	0.0	1	1	4290	9.0	0.0	0.0	2000.0	0	0.0
+P01_G01_2a	2	P01.G01.2a	TP1	Vag_Swabs	Control	Control	control	29	5	4	19.4	0	1	238	210	0	0.0	0		0.0	242.0	1.0	1	1	2350	9.0	0.0	1.0	200.0	0	1.0
+P01_G02_4c	4	P01.G02.4c	TP2	Vag_Swabs	Control	Control	control	26	1	0	26.9	0	0	0	0	0	0.0	1	0.0	0.0	289.0	1.0	1	1	3555	9.0	0.0	0.0	150.0	0	0.0
+P01_G05_9a	9	P01.G05.9a	TP1	Vag_Swabs	Control	Control	control	32	2	1	33.6	0	1	189	0	0	0.0	0	1.0	1.0	270.0	1.0	0	1	3775	9.0	1.0	0.0	350.0	0	0.0
+P01_G06_10c	10	P01.G06.10c	TP2	Vag_Swabs	Control	Control	control	32	3	2	20.0	0	1	252	0	0	0.0	0		0.0	260.0	1.0	1	1	3230	10.0	0.0	0.0	100.0	0	0.0
+P01_G08_18a	18	P01.G08.18a	TP1	Vag_Swabs	Treatment	Control	good	33	6	2	20.6	0	0	0	0	0	0.0	1	0.0	0.0	267.0	0.0	1	1	3510	9.0	0.0	0.0	250.0	0	0.0
+P01_G12_3a	3	P01.G12.3a	TP1	Vag_Swabs	Treatment	Control	good	32	4	1	38.0	0	0	0	0	1	119.0	0		0.0	116.0	1.0	1	0				0.0	950.0	0	1.0
+P01_H07_15c	15	P01.H07.15c	TP2	Vag_Swabs	Treatment	Treatment	good	33	2	1	22.3	0	0	0	0	0	0.0	1	0.0	0.0	284.0	1.0	1 (OBS retcheck this)	1	4780	10.0	0.0	0.0	650.0	0	0.0
+P01_H08_18c	18	P01.H08.18c	TP2	Vag_Swabs	Treatment	Treatment	good	33	6	2	20.6	0	0	0	0	0	0.0	1	0.0	0.0	267.0	0.0	1	1	3510	9.0	0.0	0.0	250.0	1	0.0
+P02_A03_26c	26	P02.A03.26c	TP2	Vag_Swabs	Control	Control	control	30	2	1	26.6	0	0	0	0	0	0.0	1	0.0	0.0	287.0	1.0	1	1	4180	8.0	0.0	0.0	250.0	0	0.0
+P02_A04_27a	27	P02.A04.27a	TP1	Vag_Swabs	Treatment	Control	good	33	2	1	25.1	0	1	238	0	0	0.0	0	0.0	0.0		1.0	1	1	3725	10.0	0.0	0.0	200.0	0	0.0
+P02_A08_32c	32	P02.A08.32c	TP2	Vag_Swabs	Treatment	Treatment	good	32	2	1	23.3	0	1	252	0	0	0.0	0	0.0	0.0	281.0	1.0	1	1	3700		0.0	0.0		0	0.0
+P02_A09_41a	41	P02.A09.41a	TP1	Vag_Swabs	Treatment	Control	good	28	2	1	27.1	0	1	166	0	0	0.0	0		0.0	177.0	1.0	1	1	846		0.0	1.0	270.0	0	1.0
+P02_B01_10e	10	P02.B01.10e	TP3	Vag_Swabs	Control	Control	control	32	3	2	20.0	0	1	252	0	0	0.0	0		0.0	260.0	1.0	1	1	3230	10.0	0.0	0.0	100.0	0	0.0
+P02_B04_27c	27	P02.B04.27c	TP2	Vag_Swabs	Treatment	Treatment	good	33	2	1	25.1	0	1	238	0	0	0.0	0	0.0	0.0		1.0	1	1	3725	10.0	0.0	0.0	200.0	0	0.0
+P02_B06_43a	43	P02.B06.43a	TP1	Vag_Swabs	Treatment	Control	good	28	2	1	20.2	0	1	238	0	0	0.0	0	0.0	1.0	257.0	1.0	1	1	3370	10.0	0.0	1.0	200.0	0	1.0
+P02_B10_35a	35	P02.B10.35a	TP1	Vag_Swabs	Treatment	Control	good	34	3	2	30.5	0	1	189	0	0	0.0	0	0.0	0.0	271.0	1.0	1	1	3240	10.0	0.0	0.0	250.0	0	0.0
+P02_C03_33a	33	P02.C03.33a	TP1	Vag_Swabs	Treatment	Control	good	28	4	2	25.8	0	1	231	245	0	0.0	0	0.0	0.0	249.0	1.0	1	1	2820	8.0	1.0	1.0	300.0	0	1.0
+P02_C08_32e	32	P02.C08.32e	TP3	Vag_Swabs	Treatment	Treatment	good	32	2	1	23.3	0	1	252	0	0	0.0	0	0.0	0.0	281.0	1.0	1	1	3700		0.0	0.0		0	0.0
+P02_C11_38a	38	P02.C11.38a	TP1	Vag_Swabs	Treatment	Control	good	29	3	2	22.3	1	1	175	0	0	0.0	0		0.0	284.0	1.0	1	1	3380	9.0	0.0	0.0	250.0	0	0.0
+P02_D01_15e	15	P02.D01.15e	TP3	Vag_Swabs	Treatment	Treatment	good	33	2	1	22.3	0	0	0	0	0	0.0	1	0.0	0.0	284.0	1.0	1 (OBS retcheck this)	1	4780	10.0	0.0	0.0	650.0	0	0.0
+P02_D02_23c	23	P02.D02.23c	TP2	Vag_Swabs	Control	Control	control	32	1	0	27.0	0	0	0	0	0	0.0	1	0.0	0.0	286.0	1.0	1	1	4295	9.0	0.0	0.0	300.0	0	0.0
+P02_D04_27e	27	P02.D04.27e	TP3	Vag_Swabs	Treatment	Treatment	good	33	2	1	25.1	0	1	238	0	0	0.0	0	0.0	0.0		1.0	1	1	3725	10.0	0.0	0.0	200.0	0	0.0
+P02_D07_31c	31	P02.D07.31c	TP2	Vag_Swabs	Control	Control	control	28	1	0	19.9	0	0	0	0	0	0.0	1	1.0	1.0	277.0	1.0	1	1	3365	10.0	0.0	0.0	250.0	1	0.0
+P02_D09_6c	6	P02.D09.6c	TP2	Vag_Swabs	Treatment	Treatment	good	28	3	0	23.1	1	0	0	0	0	0.0	1	0.0	0.0	295.0	0.0	0	1	3240	9.0	1.0	0.0	1000.0	0	0.0
+P02_D10_36a	36	P02.D10.36a	TP1	Vag_Swabs	Control	Control	control	30	1	0	19.9	0	0	0	0	0	0.0	1	0.0	0.0	274.0	0.0	1	1	2800	10.0	0.0	0.0	200.0	0	0.0
+P02_E04_28a	28	P02.E04.28a	TP1	Vag_Swabs	Control	Control	control	36	3	2	23.6	0	1	252	0	0	0.0	0	0.0	0.0	277.0	0.0	1	1	3700	9.0	0.0	0.0	200.0	0	0.0
+P02_E05_30a	30	P02.E05.30a	TP1	Vag_Swabs	Treatment	Control	good	38	6	1	25.8	0	1	231	0	0	0.0	0	0.0	0.0	265.0	1.0	1	1	2960	10.0	1.0	0.0	200.0	0	0.0
+P02_E08_37a	37	P02.E08.37a	TP1	Vag_Swabs	Control	Control	control	38	3	2	25.6	0	0	0	0	0	0.0	1	1.0	0.0	276.0	1.0	1	1	4105	9.0	0.0	0.0	350.0	0	0.0
+P02_F07_31e	31	P02.F07.31e	TP3	Vag_Swabs	Control	Control	control	28	1	0	19.9	0	0	0	0	0	0.0	1	1.0	1.0	277.0	1.0	1	1	3365	10.0	0.0	0.0	250.0	0	0.0
+P02_F08_39a	39	P02.F08.39a	TP1	Vag_Swabs	Treatment	Control	good	39	3	1	24.6	0	1	252	0	0	0.0	0	0.0	0.0	291.0	0.0	0	1	4230	10.0	0.0	0.0	400.0	0	0.0
+P02_F10_36c	36	P02.F10.36c	TP2	Vag_Swabs	Control	Control	control	30	1	0	19.9	0	0	0	0	0	0.0	1	0.0	0.0	274.0	0.0	1	1	2800	10.0	0.0	0.0	200.0	1	0.0
+P02_G01_19a	19	P02.G01.19a	TP1	Vag_Swabs	Treatment	Control	good	32	2	1	21.3	0	1	238	0	0	0.0	0	0.0	0.0	278.0	1.0	1	1	3310	10.0	0.0	0.0	200.0	0	0.0
+P02_G02_26a	26	P02.G02.26a	TP1	Vag_Swabs	Control	Control	control	30	2	1	26.6	0	0	0	0	0	0.0	1	0.0	0.0	287.0	1.0	1	1	4180	8.0	0.0	0.0	250.0	0	0.0
+P02_G03_26e	26	P02.G03.26e	TP3	Vag_Swabs	Control	Control	control	30	2	1	26.6	0	0	0	0	0	0.0	1	0.0	0.0	287.0	1.0	1	1	4180	8.0	0.0	0.0	250.0	0	0.0
+P02_G04_28e	28	P02.G04.28e	TP3	Vag_Swabs	Control	Control	control	36	3	2	23.6	0	1	252	0	0	0.0	0	0.0	0.0	277.0	0.0	1	1	3700	9.0	0.0	0.0	200.0	0	0.0
+P02_H04_29a	29	P02.H04.29a	TP1	Vag_Swabs	Treatment	Control	good	20	2	1	24.0	1	1	154	0	0	0.0	0	0.0	1.0	277.0		0	1	3400	2.0	1.0	1.0	750.0	0	0.0
+P02_H05_39c	39	P02.H05.39c	TP2	Vag_Swabs	Treatment	Treatment	good	39	3	1	24.6	0	1	252	0	0	0.0	0	0.0	0.0	291.0	0.0	0	1	4230	10.0	0.0	0.0	400.0	0	0.0
+P02_H07_32a	32	P02.H07.32a	TP1	Vag_Swabs	Treatment	Control	good	32	2	1	23.3	0	1	252	0	0	0.0	0	0.0	0.0	281.0	1.0	1	1	3700		0.0	0.0		0	0.0
+P02_H08_40a	40	P02.H08.40a	TP1	Vag_Swabs	Control	Control	control	29	2	1	22.5	0	1	245	0	0	0.0	0	0.0	0.0	288.0	1.0	1	1	3530	10.0	0.0	0.0	350.0	0	0.0
+P02_H10_36e	36	P02.H10.36e	TP3	Vag_Swabs	Control	Control	control	30	1	0	19.9	0	0	0	0	0	0.0	1	0.0	0.0	274.0	0.0	1	1	2800	10.0	0.0	0.0	200.0	0	0.0
