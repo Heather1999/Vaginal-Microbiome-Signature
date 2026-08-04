@@ -15,7 +15,7 @@ presence is associated with preterm birth.
                                    sourced from the original Callahan et 
                                    al. 2017 public dataset and the Borum 
                                    et al. 2025 trial data respectively 
-                                   and processed from scripts that is 
+                                   and processed from scripts that are 
                                    not available here.
 
 1. sequence_processing.sh         Metaxa2 archaeal screening (Sec. 2) +
